@@ -2,6 +2,10 @@
 
 A one-image newspaper front page summing up the world news of Tuesday 17 November 2026, built for the [make.fun bounty](https://make.fun/bounty/news-image-20261117).
 
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/dusbs/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/dusbs/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
 ![owner](https://img.shields.io/badge/owner-dusbs-blue)
 ![repo](https://img.shields.io/badge/repo-news--image--20261117-green)
 ![referral](https://img.shields.io/badge/referral-vf6yenpr-orange)
